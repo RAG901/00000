@@ -1,1 +1,1 @@
-Romove-Item .\*
+Remove-Item .\*
